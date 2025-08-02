@@ -2,7 +2,7 @@
 <p align="center">
   <h1><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align:middle;" /> I'm Deepika S</b></h1>
   <h3><b>
-    🚀 Aspiring Software Engineer | Java Backend Developer  <br/>
+    🚀 Aspiring Web Developer | Java Backend Developer  <br/>
     📚 Pre-final Year ECE Student @ Panimalar Engineering College
   </b></h3>
   <img src="https://komarev.com/ghpvc/?username=deepika012-sh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
