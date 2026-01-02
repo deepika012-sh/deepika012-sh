@@ -44,7 +44,7 @@
 <tr><td align="center">
 
 🔧 **A modern, animated, fully responsive infrastructure website**  
-🌐 **Live Demo:** https://pr-power.netlify.app/
+🌐 **Live Demo:**https://www.prpowerinfra.com/
 
 </td></tr>
 </table>
