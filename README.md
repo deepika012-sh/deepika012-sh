@@ -1,16 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=6AA5F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Deepika+✨;3rd+Year+ECE+Student;Aspiring+Software+Developer;Future+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=6AA5F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Deepika+✨;final+Year+ECE+Student;Aspiring+Software+Developer;Future+Engineer+🚀" />
 </p>
 
 <br/>
 
-<div align="center">
 
-<!-- Glass Card -->
-<table style="border-radius: 20px; padding: 20px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.1); box-shadow: 0px 0px 20px rgba(0,0,0,0.15);" >
-<tr><td>
-
-</div>
 
 🚀 **Aspiring Software Engineer | Java Backend Developer**  
 🎓 **Pre-final Year ECE Student @ Panimalar Engineering College**  
