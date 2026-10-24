@@ -10,9 +10,7 @@
 🎓 **Pre-final Year ECE Student @ Panimalar Engineering College**  
 💡 Passionate about building **clean, efficient & scalable applications**.
 
-<div>
-  <img align="right" width="370" height="290" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif" alt="Coding GIF" />
-</div>
+
 
 ---
 
